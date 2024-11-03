@@ -6,6 +6,7 @@ desde conceitos básicos e estrutura da linguagem até tópicos avançados como
 desenvolvimento web e programação em rede, com o objetivo de fornecer um
 recurso completo e de fácil acesso para aqueles que não conseguem pagar por
 um e-book, com este vão ter uma base inicial.
+
 Objetivos:
 1. Estabelecer uma Base Sólida em Java: O primeiro objetivo do ebook é
 fornecer ao leitor uma compreensão completa dos conceitos fundamentais de
